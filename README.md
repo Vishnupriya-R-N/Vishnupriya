@@ -24,7 +24,7 @@
 </a>
 
 
-<a href="https://github.com/Vishnupriyaaaaaaaaaaaa">
+<a href="https://github.com/Vishnupriya-R-N">
 
 <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 
